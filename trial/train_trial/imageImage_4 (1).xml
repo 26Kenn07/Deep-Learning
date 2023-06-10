@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_trial</folder>
+	<filename>imageImage_4 (1).jpg</filename>
+	<path>/Users/kirtan/Desktop/trial/train_trial/imageImage_4 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>797</width>
+		<height>1199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Triangle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>57</ymin>
+			<xmax>698</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>581</ymin>
+			<xmax>610</xmax>
+			<ymax>1040</ymax>
+		</bndbox>
+	</object>
+</annotation>
